@@ -1,5 +1,7 @@
 # @scipe/blob-store
 
+[![CircleCI](https://circleci.com/gh/science-periodicals/blob-store.svg?style=svg&circle-token=04aa6b65f9f761baf2276edc7b4338b6dc1a2031)](https://circleci.com/gh/science-periodicals/blob-store)
+
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 Note: this module is auto published to npm on CircleCI. Only run `npm version
